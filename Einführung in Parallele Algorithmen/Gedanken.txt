@@ -1,0 +1,2 @@
+Kann man den Beweis der unteren Schranke für Disjunktionsbildung auf CREW "dualisieren" um eine untere Schranke für das Verteilen eier Nachricht von einer an n Speicherzellen (entspricht dem Verteilen einer Information an n Prozessoren) auf ERCW zu beweisen?
+"Rückwärtlesen" einer starken CREW sollte eine starke ERCW ergeben. Danach analog: Wie viele Speicherzellen/Prozessoren können nach t Schritten von einer einzelnen Speicherzelle beeinflusst sein?
