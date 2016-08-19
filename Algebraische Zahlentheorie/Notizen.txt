@@ -1,0 +1,4 @@
+aus der Prüfung: K_C \equiv K \tensor_Q C
+
+Alternativer Beweis "in einem Satz" für p = a^2 + b^2 <=> p = 1 mod 4: https://www.youtube.com/watch?v=SyJlRUBoVp0 / https://www.youtube.com/watch?v=yGsIw8LHXM8 
+( http://people.mpim-bonn.mpg.de/zagier/files/doi/10.2307/2323918/fulltext.pdf )
