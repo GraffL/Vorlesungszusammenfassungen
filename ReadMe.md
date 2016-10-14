@@ -31,8 +31,9 @@ Zusammenfassungen/Übersichten/&bdquo;Spickzettel&ldquo; zu verschiedenen Vorles
 
 <ul>
 <li><strong>Algebraische Beschreibung paralleler Prozesse</strong> - Zusammenfassung des Vorlesungsstoffes (Definitionen/Sätze)</li>
-<li><strong>Endliche Automaten</strong> - Übersicht der Varianten von Endlichen Automaten, Abschlusseigenschaften regulärer Sprachen und Diophantische Gleichungen</li>
 <li><strong>Einführung in parallele Algorithmen</strong> - Zusammenfassung des Vorlesungsstoffes (Definitionen/Sätze, Probleme/Algorithmen, Prozessor-Modelle - z.T. mit Beweisideen)</li>
+<li><strong>Endliche Automaten</strong> - Übersicht der Varianten von Endlichen Automaten, Abschlusseigenschaften regulärer Sprachen und Diophantische Gleichungen</li>
+<li><strong>Petrinetze</strong> - Zusammenfassung des Vorlesungsstoffes</li>
 <li><strong>Platzeffiziente Algorithmen</strong> - Zusammenfassung des Vorlesungsstoffes (Definitionen/Sätze, Algorithmen, Datenstrukturen - z.T. mit Beweisideen). Es fehlen die letzten beiden Kapitel</li>
 <li><strong>Algorithmen für NP-harte Probleme</strong> - Übersicht "NP-harte Probleme vs Approx. Algorithmen", Stoffzusammenfassung (Definitionen, Algorithemen)</li>
 </ul>
