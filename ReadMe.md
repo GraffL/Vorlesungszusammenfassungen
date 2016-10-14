@@ -11,7 +11,7 @@ Zusammenfassungen/Übersichten/&bdquo;Spickzettel&ldquo; zu verschiedenen Vorles
 <li><strong>Spieltheorie</strong> - Vorlesungsmitschrift (Definitionen/Sätze)</li>
 <li><strong>Morse Homologie</strong> - Vorlesungsmitschrift (Definitionen/Sätze) - <em>in Arbeit</em></li>
 <li><strong>Algebraische Zahlentheorie</strong> - Vorlesungsmitschrift (Definitionen/Sätze) - <em>in Arbeit</em></li>
-<li><strong>Algebra</strong> - Vorlesungszusammenfassung zu Algebra II</li>
+<li><strong>Algebra</strong> - Vorlesungszusammenfassungen zu Algebra I und II</li>
 <li><strong>Analysis</strong> - <em>1. Versuch mit Ipe, Anfangsstadium</em></li>
 </ul>
 
