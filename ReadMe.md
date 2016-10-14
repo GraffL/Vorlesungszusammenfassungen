@@ -30,6 +30,7 @@ Zusammenfassungen/Übersichten/&bdquo;Spickzettel&ldquo; zu verschiedenen Vorles
 <h3>Informatik</h3>
 
 <ul>
+<li><strong>Theoretische Informatik</strong> - Übersicht zu Grundbegriffen, Regulären Sprachen und Kontextfreien Sprachen</li>
 <li><strong>Algebraische Beschreibung paralleler Prozesse</strong> - Zusammenfassung des Vorlesungsstoffes (Definitionen/Sätze)</li>
 <li><strong>Einführung in parallele Algorithmen</strong> - Zusammenfassung des Vorlesungsstoffes (Definitionen/Sätze, Probleme/Algorithmen, Prozessor-Modelle - z.T. mit Beweisideen)</li>
 <li><strong>Endliche Automaten</strong> - Übersicht der Varianten von Endlichen Automaten, Abschlusseigenschaften regulärer Sprachen und Diophantische Gleichungen</li>
