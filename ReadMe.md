@@ -2,6 +2,8 @@
 
 Zusammenfassungen/Übersichten/&bdquo;Spickzettel&ldquo; zu verschiedenen Vorlesungen.
 
+Siehe auch: <a href="https://github.com/timjb/uni-spicker">Uni-Spicker</a> von @timjb
+
 <h2>Inhalte</h2>
 
 
@@ -14,7 +16,8 @@ Zusammenfassungen/Übersichten/&bdquo;Spickzettel&ldquo; zu verschiedenen Vorles
 <li><strong>Analysis</strong> - Vorlesungszusammenfassung zu Analysis I/II, Tutornotizen</li>
 <li><strong>Algebra</strong> - Vorlesungszusammenfassung zu Algebra I/II</li>
 <li><strong>Differentialgeometrie</strong> - Vorlesungszusammenfassung (Definitionen/Sätze)</li>
-<li><strong>Topologie</strong> - Vorlesungszusammenfassung zu Einfürhung in die Topologie</li>
+<li><strong>Topologie</strong> - Vorlesungszusammenfassung zu Einführung in die Topologie</li>
+<li><strong>Stochastik I-III</strong> - Vorlesungszusammenfassung zu Stochastik/Statistik</li>
 </ul>
 
 <h4>Weiterführende Vorlesungen</h4>
