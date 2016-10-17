@@ -27,6 +27,7 @@ Siehe auch: <a href="https://github.com/timjb/uni-spicker">Uni-Spicker</a> von @
 <li><strong>Spieltheorie</strong> - Vorlesungsmitschrift (Definitionen/Sätze)</li>
 <li><strong>Morse Homologie</strong> - Vorlesungsmitschrift (Definitionen/Sätze), Vorlesungsübersicht</li>
 <li><strong>Algebraische Zahlentheorie</strong> - Vorlesungsmitschrift (Definitionen/Sätze), Vorlesungsübersicht mit Beweisideen</li>
+<li><strong>Algebraische Topologie</strong> - Vorlesungsmitschrift (Definitionen/Sätze) <em>in Arbeit</em></li>
 <li><strong>Allgemeine Relativitätstheorie</strong> - Übersicht einiger mathematischer und physikalischer Grundbegriffe</li>
 <li><strong>Markov-Ketten und Monte-Carlo-Simulation</strong> - Vorlesungszusammenfassung</li>
 </ul>
@@ -35,6 +36,7 @@ Siehe auch: <a href="https://github.com/timjb/uni-spicker">Uni-Spicker</a> von @
 
 <ul>
 <li><strong>Theoretische Informatik</strong> - Übersicht zu Grundbegriffen, Regulären Sprachen und Kontextfreien Sprachen</li>
+<li><strong>Informatik III</strong> - Stoffübersicht <em>in Arbeit</em></li>
 <li><strong>Algebraische Beschreibung paralleler Prozesse</strong> - Zusammenfassung des Vorlesungsstoffes (Definitionen/Sätze)</li>
 <li><strong>Einführung in parallele Algorithmen</strong> - Zusammenfassung des Vorlesungsstoffes (Definitionen/Sätze, Probleme/Algorithmen, Prozessor-Modelle - z.T. mit Beweisideen)</li>
 <li><strong>Endliche Automaten</strong> - Übersicht der Varianten von Endlichen Automaten, Abschlusseigenschaften regulärer Sprachen und Diophantische Gleichungen</li>
