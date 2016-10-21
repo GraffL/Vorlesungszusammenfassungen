@@ -7,14 +7,18 @@
 	
 	
 <h2>Besonders erinnerungswürdige Definitionen</h2>
-
+* Ist f \in A, p \in Spec A, so bezeichnet man [f] \in A/p als _Wert von f in p_
+	Motivation dafür: A := C(X), p \in X, I_p := {g \in C(X) | g(x)} Ideal in A -> C(X)/I_p isomorph zu |R via Einsetzen von p
+	d.h. der "Wert" [f] entspricht dem Wert f(p)
+  Gilt f \in p, so sagt man _f verschwindet in p_
+	Für f \in I_p verschwindet [f] "=" f(p) = 0
 
 <h2>Besonders erinnerungswürdige Sätze</h2>
 
 
 <h2>Fragen</h2>
-
+* Wie hängen die Grundlegenden Ideen der Schematheorie mit dem Satz v. Gelfand-Neumark zusammen?
 
 
 <h1>ToDos</h1>
-* Sei R ein Ring und I ein Ideal: Zeige die Bijektion von Idealen, die I enthalten, zu Idealen in R/I (diese gilt insb. auch für Primideale bzw. maximale Ideale)
+* Beweise: Ist A nullteilerfrei, so ist (0) ein Primideal und liegt dicht in Spec A (d.h. der topologische Abschluss von (0) bzgl. der Zariski-Topologie ist Spec A).
