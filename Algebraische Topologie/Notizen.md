@@ -21,4 +21,4 @@
 
 <h1>ToDos</h1>
 
-* Übersicht der Zusammenhangsbegriffe (zusammenhängend, wegzusammenhängend, lokal zusammenhängend, lokal wegzusammenhängend, einfach zusammenhängend, zusammenziehbar) erstellen (mit Gegenbsp.en) -> Hanke-Skript
+* Übersicht der Zusammenhangsbegriffe erstellen. Done: https://github.com/GraffL/Man-sieht-leicht.../blob/master/Topologie/Zusammenh%C3%A4nge%20von%20Zusammenhangsbegriffen.pdf
