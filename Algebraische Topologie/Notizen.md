@@ -14,11 +14,14 @@
 
 
 <h2>Fragen</h2>
-* Auf den Äquivalenzklassen von Pfaden in einem festen topologischen Raum gibt es eine Verküpfung für zwei Pfade f:x->y und g:y->z zu einem Pfad g.f:x->z. Diese ist (auf Äuqivlanzklassenebene) assoziativ hat "neutrale Elemente" (die konstanten Pfade) und entsprechende "Inverse" (Pfad rückwärs laufen). Hat diese Art von Struktur einen Namen (als algebraisches Objekt)?
--> eine Kategorie, in der alle Morphismen Isomorphismen sind?
+* Auf den Äquivalenzklassen von Pfaden in einem festen topologischen Raum gibt es eine Verküpfung für zwei Pfade f:x->y und g:y->z zu einem Pfad g.f:x->z. Diese ist (auf Äuqivlanzklassenebene) assoziativ hat "neutrale Elemente" (die konstanten Pfade) und entsprechende "Inverse" (Pfad rückwärs laufen). Hat diese Art von Struktur einen Namen (als algebraisches Objekt)? 
+-> eine Kategorie, in der alle Morphismen Isomorphismen sind? => Ja, der Fundamentalgrupoid (d.h. der Begriff wäre Grupoid?)
 * Was beweist man die Existenz und Eindeutigkeit des Liftes eines Pfades (evtl. auch allgemeiner einer Abbildung)?
+* Sind die Funktoren einer Kategorienäquivalenz adjungiert.
+* ist ___-Adjunktion transitiv? (Set <-> Grp <-> Ab => Set <-> Ab ?) Ist das Linksadjungierte zu einem Rechtsadjungierten eindeutig? (Set -> Grp -> Ab = Set -> Ab ?)
 
 
 <h1>ToDos</h1>
+* Definition von Adjunktion (v. Funktoren) einfügen, Adjunktion verstehen
 
 * Übersicht der Zusammenhangsbegriffe erstellen. Done: https://github.com/GraffL/Man-sieht-leicht.../blob/master/Topologie/Zusammenh%C3%A4nge%20von%20Zusammenhangsbegriffen.pdf

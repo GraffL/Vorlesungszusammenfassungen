@@ -8,11 +8,12 @@
 	
 <h2>Besonders erinnerungswürdige Definitionen</h2>
 * Ist f \in A, p \in Spec A, so bezeichnet man [f] \in A/p als _Wert von f in p_
-	Motivation dafür: A := C(X), p \in X, I_p := {g \in C(X) | g(x)} Ideal in A -> C(X)/I_p isomorph zu |R via Einsetzen von p
+	Motivation dafür: A := C(X), p \in X, I_p := {g \in C(X) | g(p)=0} Ideal in A -> C(X)/I_p isomorph zu |R via Einsetzen von p
 	d.h. der "Wert" [f] entspricht dem Wert f(p)
   Gilt f \in p, so sagt man _f verschwindet in p_
 	Für f \in I_p verschwindet [f] "=" f(p) = 0
 
+	
 <h2>Besonders erinnerungswürdige Sätze</h2>
 
 
