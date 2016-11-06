@@ -20,15 +20,23 @@
 
 	
 <h2>Besonders erinnerungswürdige Sätze</h2>
+* D(f) = Spec A_f, O_{Spec A, p} := (O_{Spec A})_p = A_p
+* V: Ideale -> abg. Mengen: J -> V(J); I: (abg) Mengen -> Ideale: M -> {a \in A | a|_M = 0} => I\circ V(J) = \sqrt(J)
 
 
 <h2>Fragen</h2>
 * Wie hängen die Grundlegenden Ideen der Schematheorie mit dem Satz v. Gelfand-Neumark zusammen?
 * Sind Verschwindungsmengen (algebraisch) irreduzibler Polynome (topologisch) irreduzibel?
 * Wie sind Garben kategorientheoretisch definiert?
+* Sind V, I Funktoren? (falls ja, adjungiert? ...?) Folgt daraus irgendetwas interessantes?
+* Was bedeutet "Prägarbe auf einer Basis (eines topologischen Raumes)"?
+* Anscheinend sind Morphismen zwischen geringten Räumen C^\infty(M) und C^\infty(N), für diff'bare Mfgen M und N, gerade die differenzierbaren Abbildungen zwischen diesen Mfgen. Stimmt das? Und falls ja, warum?
 
 
 <h1>ToDos</h1>
 * Beweise: Ist A nullteilerfrei, so ist (0) ein Primideal und liegt dicht in Spec A (d.h. der topologische Abschluss von (0) bzgl. der Zariski-Topologie ist Spec A).
 * Zeige die Wohldefiniertheit der Lokalisierung
-* Übersicht zu Bildern von Spec erstellen
+* Erstelle Übersicht zu V(f), D(f), O_X(D(f)), ... für den Fall A = C(X)
+ -> in diesem Zusammenhang auch interessant: Identitäten wie D(fg) = D(f) \cap D(g), ...
+
+* Übersicht zu Bildern von Spec erstellen ~"done": https://github.com/GraffL/Vorlesungszusammenfassungen/blob/master/Schematheorie/Anschauung%20f%C3%BCr%20Spec.pdf 

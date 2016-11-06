@@ -15,9 +15,13 @@
 * Die Pfade in einem topologischen Raum (modulo Homotopie) bilden (als algebraisches Objekt) einen Gruppoid, den Fundamentalgruppoid
 * f, g: S^1->S^1: deg fg = deg f + deg g, denn: deg f = k => f homotop exp(2pi i k), deg g = l => ... =(Blatt 1/A4)=> fg homotop exp(2pi i (k+l)) => deg fg = k+l
 * Eckmann-Hilton Argument: ...
+* Für eine ategorie C, x \in Ob C, definiere \pi_1(C,x) := Aut_C(x). Der Beweis des "konkreten" Theorems von van Kampen aus dem abstrakten Theorem geht dann völlig analog.
+* RP^1 homöomorph S^1, für höhere Dimensionen stimmt das aber nicht mehr
 
 
-<h2>Besonders erinnerungswürdige Sätze</h2>
+<h2>Besonders erinnerungswürdige Beispiele</h2>
+* Berechnen der Fundamentalgruppe von Torus, Kleinscher Flasche und Projektivem Raum über Proposition aus dem Theorem von van Kampen. Die verschiedenen Verklebungen führen direkt zu den verschiedenen Relationen, die man am Ende aus Z*Z herausteilt.
+* Der Beweis der Existenz einer Lebesgue-Zahl ist auch konstruktiv möglich (was "explizit" eine Lebesgue-Zahl liefert): Für Überdeckung V_j einer kompakten Menge K setze \varepsilon := min_{x \in K} max_{j \in J} dist(x, K \\ V_j) (min/max existieren wg. Stetigkeit von dist und Kompaktjeit von K (-> J endl.))
 
 
 <h2>Fragen</h2>
