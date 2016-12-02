@@ -8,6 +8,7 @@
 	(muss man dafür dann aufpassen, dass die Hom-Mengen auch immer Mengen bleiben? Außerdem müsste man _Set_ kennen! ^^)
 * "wesentlich surjektiv" ist "Surjektivität" für Funktoren, aus "Volltreuheit" folgt "Injektivität" für Funktoren (im Beweis von F(f) = F(g) => f=g benötigt man "voll" um Morphismen zu finden, die auf einen Isomorphismus abgebildet werden, ud "treu" um zu zeigen, dass dieser ebenfalls ein Iso ist (F(f)=id -> f=id)). 
 	Inwiefern ist Volltreuheit _mehr_ als Injektivität und warum braucht man das?
+* Die Asymetrie der Topologien auf Produkt- und Koproduktraum stammt von der Asymmetrie des Verhaltens von offenen Mengen und Schnitten bzw. Vereinigungen (nur endliche vs. beliebige)
 	
 
 <h2>Besonders erinnerungswürdige Definitionen</h2>
@@ -19,6 +20,8 @@
 * Eckmann-Hilton Argument: ...
 * Für eine ategorie C, x \in Ob C, definiere \pi_1(C,x) := Aut_C(x). Der Beweis des "konkreten" Theorems von van Kampen aus dem abstrakten Theorem geht dann völlig analog.
 * RP^1 homöomorph S^1, für höhere Dimensionen stimmt das aber nicht mehr
+* Untergruppen von Index 2 sind immer normal (warum?)
+* X k-Raum und schwach hausdorffsch (also kompakt erzeugt). Dann gilt: A \subseteq X abgeschlossen <=> \forall K \subseteq X komp: A \cap K abg (und analog für offen). D.h. in _kompakt erzeugten_ Räumen reicht es Abgeschlossenheit/Offenheit auf Kompakta zu testen.
 
 
 <h2>Besonders erinnerungswürdige Beispiele</h2>
@@ -32,12 +35,17 @@
 * ist ___-Adjunktion transitiv? (Set <-> Grp <-> Ab => Set <-> Ab ?) Ist das Linksadjungierte zu einem Rechtsadjungierten eindeutig? (Set -> Grp -> Ab = Set -> Ab ?)
 * Gilt: B zusammenziehbar => f.a. f,g: A -> B: f homotop g?
 * Wie genau ist der Zusammenhang zwischen Überlagerungstheorie und Galoistheorie?
+* Was heißt "endlich erzeugte Gruppe"?
+* Was genau ist der Zusammenhang zwischen Currying und kartesisch abgeschlossenen Kategorien? (möglicherweise ist die Frage hier nur, wie man diese Frage sinnvoll stellen sollte?)
+* Wie kann der (topologische) Quotientenraum als Kolimes verstanden werden?
 
 
 <h1>ToDos</h1>
-* Definition von Adjunktion (v. Funktoren) einfügen, Adjunktion verstehen
+* Definition von Adjunktion (v. Funktoren) einfügen (DONE), Adjunktion verstehen
 * alternative (Ko-)Limes-Definition verstehen (und anwenden!)
 * Universelle Eigenschaften anschaulich verstehen (z.B. bei Tensorprodukten, Produkten, Limites...)
-* ZUsammenhangsübersicht um schwache Versionen ergänzen
+* ZUsammenhangsübersicht um schwache Versionen ergänzen (Bspw. in "Topologie" von Jänich) + hal/semi lokal einfach zusammenhängend
+* Gegenbeispiel zu lokal hausdorffsch => hausdorffsch finden (sonst würde der Begriff lokal kompakt und hausdorffsch keinen Sinn ergeben)
+* Beweis aufschreiben für: X schw. hd.: A \subseteq X komp. abg <=> \forall K \subseteq X komp.: A \cap K abg in X (existiert bereits in handschriftlicher Form, verwendet, dass in hd-Räumen disjunkte abgeschlossene Teilmengen durch offene Umgebungen getrennt werden können).
 
-* Übersicht der Zusammenhangsbegriffe erstellen. Done: https://github.com/GraffL/Man-sieht-leicht.../blob/master/Topologie/Zusammenh%C3%A4nge%20von%20Zusammenhangsbegriffen.pdf
+* Übersicht der Zusammenhangsbegriffe erstellen. DONE: https://github.com/GraffL/Man-sieht-leicht.../blob/master/Topologie/Zusammenh%C3%A4nge%20von%20Zusammenhangsbegriffen.pdf
