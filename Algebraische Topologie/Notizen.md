@@ -44,7 +44,7 @@
 * Definition von Adjunktion (v. Funktoren) einfügen (DONE), Adjunktion verstehen
 * alternative (Ko-)Limes-Definition verstehen (und anwenden!)
 * Universelle Eigenschaften anschaulich verstehen (z.B. bei Tensorprodukten, Produkten, Limites...)
-* ZUsammenhangsübersicht um schwache Versionen ergänzen (Bspw. in "Topologie" von Jänich) + hal/semi lokal einfach zusammenhängend
+* Zusammenhangsübersicht um schwache Versionen ergänzen (Bspw. in "Topologie" von Jänich) + halb/semi lokal einfach zusammenhängend
 * Gegenbeispiel zu lokal hausdorffsch => hausdorffsch finden (sonst würde der Begriff lokal kompakt und hausdorffsch keinen Sinn ergeben)
 * Beweis aufschreiben für: X schw. hd.: A \subseteq X komp. abg <=> \forall K \subseteq X komp.: A \cap K abg in X (existiert bereits in handschriftlicher Form, verwendet, dass in hd-Räumen disjunkte abgeschlossene Teilmengen durch offene Umgebungen getrennt werden können).
 
