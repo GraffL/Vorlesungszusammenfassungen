@@ -15,6 +15,7 @@ Siehe auch: <a href="https://github.com/timjb/uni-spicker">Uni-Spicker</a> von @
 <li><strong>Lineare Algebra</strong> - Vorlesungszusammendassung (Definitionen/Sätze) zu Linearer Algebra II</li>
 <li><strong>Analysis</strong> - Vorlesungszusammenfassung zu Analysis I/II, Tutornotizen</li>
 <li><strong>Algebra</strong> - Vorlesungszusammenfassung zu Algebra I/II</li>
+<li><strong>Funktionentheorie</strong> - Vorlesungszusammenfassung</li>
 <li><strong>Differentialgeometrie</strong> - Vorlesungszusammenfassung (Definitionen/Sätze)</li>
 <li><strong>Topologie</strong> - Vorlesungszusammenfassung zu Einführung in die Topologie</li>
 <li><strong>Stochastik I-III</strong> - Vorlesungszusammenfassung zu Stochastik/Statistik</li>
@@ -30,6 +31,7 @@ Siehe auch: <a href="https://github.com/timjb/uni-spicker">Uni-Spicker</a> von @
 <li><strong>Algebraische Topologie</strong> - Vorlesungsmitschrift (Definitionen/Sätze) <em>in Arbeit</em></li>
 <li><strong>Allgemeine Relativitätstheorie</strong> - Übersicht einiger mathematischer und physikalischer Grundbegriffe</li>
 <li><strong>Markov-Ketten und Monte-Carlo-Simulation</strong> - Vorlesungszusammenfassung</li>
+<li><strong>Bayessche Statistik</strong> - Vorlesungszusammenfassung</li>
 </ul>
 
 <h3>Informatik</h3>
