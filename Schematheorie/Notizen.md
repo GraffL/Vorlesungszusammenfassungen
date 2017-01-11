@@ -5,6 +5,9 @@
 	Ziel: Ausgehend von einem Ring, definiere eine Menge mit einer Topologie, sodass der Raum der globalen Funktionen darauf dem ursprünglichen Ring entspricht -> Schema?
 * Schemata sehen lokal aus wie Spec A
 * Zeichnet man Bilder von Spec, so zeichnet man jeweils den topologischen Abschluss der Primideale
+* Es ist überhaupt nicht offensichtlich, dass der Dimensionsbegriff (über Dimension der Karten) für Mannigfaltigkeiten wohldefiniert ist - sprich: Warum kann es nicht verschiedene Atlanten mit verschiedenen Dimensionen geben? 
+	-> Für diff'bare Mfg lässt sich das über eine alternative Definition über die Dimension des Tangentialraums "lösen"
+	-> aber wie geht es für topologische Mfg?
 
 
 <h2>Wichtige Beispiele</h2>
@@ -17,6 +20,9 @@
 	d.h. der "Wert" [f] entspricht dem Wert f(p)
   Gilt f \in p, so sagt man _f verschwindet in p_
 	Für f \in I_p verschwindet [f] "=" f(p) = 0
+* Die universelle Eigenschaft des Produktes ist: Hom(T, XxY) isom. Hom(T,X) x Hom(T,Y)
+* X top. Raum -> Krulldimension von X := sup{ n | \exists Y_0 \subsetneq Y_1 ... Y_n aufsteigende Kette abgeschlossener irreduzibler Teilmengen} - beachte hierbei: Die leere Menge ist als nicht-irreduzibel definiert!
+* A Ring -> Krulldimension von A := sup{ n | p_0 \subsetneq p_1 ... p_n augsteigende Kette von Primidealen in A}
 
 	
 <h2>Besonders erinnerungswürdige Sätze</h2>
@@ -38,5 +44,6 @@
 * Zeige die Wohldefiniertheit der Lokalisierung
 * Erstelle Übersicht zu V(f), D(f), O_X(D(f)), ... für den Fall A = C(X)
  -> in diesem Zusammenhang auch interessant: Identitäten wie D(fg) = D(f) \cap D(g), ...
+* Definition von (Prä-)Garben als Funktor verstehen
 
 * Übersicht zu Bildern von Spec erstellen ~"done": https://github.com/GraffL/Vorlesungszusammenfassungen/blob/master/Schematheorie/Anschauung%20f%C3%BCr%20Spec.pdf 
