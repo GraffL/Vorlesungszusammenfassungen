@@ -22,6 +22,8 @@
 * RP^1 homöomorph S^1, für höhere Dimensionen stimmt das aber nicht mehr
 * Untergruppen von Index 2 sind immer normal (warum?)
 * X k-Raum und schwach hausdorffsch (also kompakt erzeugt). Dann gilt: A \subseteq X abgeschlossen <=> \forall K \subseteq X komp: A \cap K abg (und analog für offen). D.h. in _kompakt erzeugten_ Räumen reicht es Abgeschlossenheit/Offenheit auf Kompakta zu testen.
+* Ist in einer kurzen exakten Sequenz von Gruppen die mittlere abelsch, so sind es auch die anderen beiden
+	-> Das ist auch der Grund, warum für die Folgerung "rechter Pfeil hat Rechtsinverses => Sequenz zerfällt" gefordert wird, dass _alle_ Gruppen abelsch sind, obwohl für den Beweis nur Kommutativität der mittleren Gruppe benötigt wird.
 
 
 <h2>Besonders erinnerungswürdige Beispiele</h2>
