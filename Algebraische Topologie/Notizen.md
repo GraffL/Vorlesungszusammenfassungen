@@ -31,6 +31,10 @@
 * Der Beweis der Existenz einer Lebesgue-Zahl ist auch konstruktiv möglich (was "explizit" eine Lebesgue-Zahl liefert): Für Überdeckung V_j einer kompakten Menge K setze \varepsilon := min_{x \in K} max_{j \in J} dist(x, K \\ V_j) (min/max existieren wg. Stetigkeit von dist und Kompaktjeit von K (-> J endl.))
 
 
+<h2>Besonders erinnerungswürdige Beispiele</h2>
+* Den Beweis für (hat Links/Rechts-Inverses) => (Sequenz zerfällt) kann man mit Hilfe des 5er-Lemmas deutlich verkürzen (nur einfache Richtung des Isos definieren - andere erhält man aus dem Lemma)
+
+
 <h2>Fragen</h2>
 * Was beweist man die Existenz und Eindeutigkeit des Liftes eines Pfades (evtl. auch allgemeiner einer Abbildung)?
 * Sind die Funktoren einer Kategorienäquivalenz adjungiert.
@@ -49,5 +53,6 @@
 * Zusammenhangsübersicht um schwache Versionen ergänzen (Bspw. in "Topologie" von Jänich) + halb/semi lokal einfach zusammenhängend
 * Gegenbeispiel zu lokal hausdorffsch => hausdorffsch finden (sonst würde der Begriff lokal kompakt und hausdorffsch keinen Sinn ergeben)
 * Beweis aufschreiben für: X schw. hd.: A \subseteq X komp. abg <=> \forall K \subseteq X komp.: A \cap K abg in X (existiert bereits in handschriftlicher Form, verwendet, dass in hd-Räumen disjunkte abgeschlossene Teilmengen durch offene Umgebungen getrennt werden können).
+* 5er-Lemma beweisen
 
 * Übersicht der Zusammenhangsbegriffe erstellen. DONE: https://github.com/GraffL/Man-sieht-leicht.../blob/master/Topologie/Zusammenh%C3%A4nge%20von%20Zusammenhangsbegriffen.pdf
