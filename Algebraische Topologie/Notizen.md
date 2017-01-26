@@ -24,6 +24,7 @@
 * X k-Raum und schwach hausdorffsch (also kompakt erzeugt). Dann gilt: A \subseteq X abgeschlossen <=> \forall K \subseteq X komp: A \cap K abg (und analog für offen). D.h. in _kompakt erzeugten_ Räumen reicht es Abgeschlossenheit/Offenheit auf Kompakta zu testen.
 * Ist in einer kurzen exakten Sequenz von Gruppen die mittlere abelsch, so sind es auch die anderen beiden
 	-> Das ist auch der Grund, warum für die Folgerung "rechter Pfeil hat Rechtsinverses => Sequenz zerfällt" gefordert wird, dass _alle_ Gruppen abelsch sind, obwohl für den Beweis nur Kommutativität der mittleren Gruppe benötigt wird.
+* Offen-/Abgeschlossenheit einer Teilmenge eines CW-Komplexes kann man testen, indem man Offen-/Abgeschlossenheit in allen (abgeschlossenen) Zellen testet (der Beweis dazu steckt im Grunde in der Lösung zu B12/A2,3). Angeblich reicht es auch in allen offenen(!) Zellen(inneren) zu testen - das ist mir aber nicht klar (würde daraus nicht folgern, dass bspw. das der Rand einer Zelle offen bzw. ihr Inneres abgeschlossen ist?)
 
 
 <h2>Besonders erinnerungswürdige Beispiele</h2>
@@ -31,7 +32,7 @@
 * Der Beweis der Existenz einer Lebesgue-Zahl ist auch konstruktiv möglich (was "explizit" eine Lebesgue-Zahl liefert): Für Überdeckung V_j einer kompakten Menge K setze \varepsilon := min_{x \in K} max_{j \in J} dist(x, K \\ V_j) (min/max existieren wg. Stetigkeit von dist und Kompaktjeit von K (-> J endl.))
 
 
-<h2>Besonders erinnerungswürdige Beispiele</h2>
+<h2>Besonders erinnerungswürdige Beweise</h2>
 * Den Beweis für (hat Links/Rechts-Inverses) => (Sequenz zerfällt) kann man mit Hilfe des 5er-Lemmas deutlich verkürzen (nur einfache Richtung des Isos definieren - andere erhält man aus dem Lemma)
 
 
