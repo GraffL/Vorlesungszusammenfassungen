@@ -12,6 +12,7 @@
 	
 
 <h2>Besonders erinnerungswürdige Definitionen</h2>
+* Das CW in CW-Komplex steht für "closure-finite weak-topology"
 
 
 <h2>Besonders erinnerungswürdige Sätze</h2>
@@ -47,6 +48,7 @@ Es genügt hingegen _nicht_ es auf den offenen Zellen zu testen (siehe z.B. S^1 i
 * Was heißt "endlich erzeugte Gruppe"?
 * Was genau ist der Zusammenhang zwischen Currying und kartesisch abgeschlossenen Kategorien? (möglicherweise ist die Frage hier nur, wie man diese Frage sinnvoll stellen sollte?)
 * Wie kann der (topologische) Quotientenraum als Kolimes verstanden werden?
+* Was ist die "ad hoc"-Definition von d_1 im Komplex für die zelluläre Homologie?
 
 
 <h1>ToDos</h1>
