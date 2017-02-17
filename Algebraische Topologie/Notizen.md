@@ -6,13 +6,13 @@
 	Dann berechne A auf einfachen top. Räumen und Abbildungen und deformiere die eigentlich interessanten Räume zu diesen einfacheren.
 * Führt man kategorientheoretische Beweise über Hom-Mengen (-> Yoneda) statt über die Objekte selbst, arbeitet man automatisch in _Set_ (und kann also zu recht nur über Mengen nachdenken)
 	(muss man dafür dann aufpassen, dass die Hom-Mengen auch immer Mengen bleiben? Außerdem müsste man _Set_ kennen! ^^)
-* "wesentlich surjektiv" ist "Surjektivität" für Funktoren, aus "Volltreuheit" folgt "Injektivität" für Funktoren (im Beweis von F(f) = F(g) => f=g benötigt man "voll" um Morphismen zu finden, die auf einen Isomorphismus abgebildet werden, ud "treu" um zu zeigen, dass dieser ebenfalls ein Iso ist (F(f)=id -> f=id)). 
+* "wesentlich surjektiv" ist "Surjektivität" für Funktoren, aus "Volltreuheit" folgt "Injektivität" für Funktoren (im Beweis von F(X) ≅ F(Y) => X≅Y benötigt man "voll" um Morphismen zu finden, die auf einen Isomorphismus abgebildet werden, und "treu" um zu zeigen, dass dieser ebenfalls ein Iso ist (F(f)=id -> f=id)). 
 	Inwiefern ist Volltreuheit _mehr_ als Injektivität und warum braucht man das?
 * Die Asymetrie der Topologien auf Produkt- und Koproduktraum stammt von der Asymmetrie des Verhaltens von offenen Mengen und Schnitten bzw. Vereinigungen (nur endliche vs. beliebige)
 	
 
 <h2>Besonders erinnerungswürdige Definitionen</h2>
-* Das CW in CW-Komplex steht für "closure-finite weak-topology" (closure finite = abgeschlossene Zellen werden von endlich vielen offenen überdeckt, B12A3 zeigt dies sogar allgemeiner für alle kompakten Mengen; weak-topology = ??? - mir scheint es eher als hätten VW-Komplexe die *starke* Topologie...)
+* Das CW in CW-Komplex steht für "closure-finite weak-topology" (closure finite = abgeschlossene Zellen werden von endlich vielen offenen überdeckt, B12A3 zeigt dies sogar allgemeiner für alle kompakten Mengen; weak-topology = CW-Komplexe tragen als Kolimes die Kolimes-Topologie, also die _starke_ Topologie (NICHT die schwache Topologie))
 
 
 <h2>Besonders erinnerungswürdige Sätze</h2>
