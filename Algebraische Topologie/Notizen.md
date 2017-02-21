@@ -1,8 +1,8 @@
 ﻿<h1>Ergebnisse der <a href="http://math.stanford.edu/~vakil/threethings.html">Drei-Fragen-Challenge</a></h1>
 
 <h2>Wichtige Ideen/Motivationen/Konzepte</h2>
-* Ziel der Algerbaischen Topologie: Finde Funktor A: TOP -> GRP
-* Ziel der Homotpie Theorie: Finde algebraische Konstruktion A wie oben, die invariant unter bestimmten Homotoien ist
+* Ziel der Algebraischen Topologie: Finde Funktor A: TOP -> GRP
+* Ziel der Homotopie Theorie: Finde algebraische Konstruktion A wie oben, die invariant unter bestimmten Homotopien ist
 	Dann berechne A auf einfachen top. Räumen und Abbildungen und deformiere die eigentlich interessanten Räume zu diesen einfacheren.
 * Führt man kategorientheoretische Beweise über Hom-Mengen (-> Yoneda) statt über die Objekte selbst, arbeitet man automatisch in _Set_ (und kann also zu recht nur über Mengen nachdenken)
 	(muss man dafür dann aufpassen, dass die Hom-Mengen auch immer Mengen bleiben? Außerdem müsste man _Set_ kennen! ^^)
@@ -18,7 +18,7 @@
 <h2>Besonders erinnerungswürdige Sätze</h2>
 * Die Pfade in einem topologischen Raum (modulo Homotopie) bilden (als algebraisches Objekt) einen Gruppoid, den Fundamentalgruppoid
 * f, g: S^1->S^1: deg fg = deg f + deg g, denn: deg f = k => f homotop exp(2pi i k), deg g = l => ... =(Blatt 1/A4)=> fg homotop exp(2pi i (k+l)) => deg fg = k+l
-* <a href="https://en.wikipedia.org/wiki/Eckmann-Hilton_argument">Eckmann-Hilton Argument</a>: Geg. eine Menge mit zwei binären Operationen mit neutralen Elementen + und *. Gilt allgemein (a+b)*(c+d) = (a*b)+(c*d), so sind die beiden Operationen gleich, kommutativ und assoziativ.
+* <a href="https://en.wikipedia.org/wiki/Eckmann-Hilton_argument">Eckmann-Hilton Argument</a>: Geg. eine Menge mit zwei binären Operationen mit neutralen Elementen + und \*. Gilt allgemein (a+b)\*(c+d) = (a\*b)+(c\*d), so sind die beiden Operationen gleich, kommutativ und assoziativ.
 * Für eine Kategorie C, x \in Ob C, definiere \pi_1(C,x) := Aut_C(x). Der Beweis des "konkreten" Theorems von van Kampen aus dem abstrakten Theorem geht dann völlig analog.
 * RP^1 homöomorph S^1, für höhere Dimensionen stimmt das aber nicht mehr. Ersteres ist auch anschaulich "klar": Der RP^1 ist eine S^1 modulo +-. Identifiziert man zunächst nur zwei antipodlae Punkte, so erhält man eine 8. "Verdrillt" man nun den unteren Kreis, so erhält man danach die restlichen Identifzierungen durch "Hochklappen" dieses unteren Kreises auf den oberen.
 * Untergruppen von Index 2 sind immer normal (warum?)
@@ -40,7 +40,6 @@ Es genügt hingegen _nicht_ es auf den offenen Zellen zu testen (siehe z.B. S^1 
 
 
 <h2>Fragen</h2>
-* Wie beweist man die Existenz und Eindeutigkeit des Liftes eines Pfades (evtl. auch allgemeiner einer Abbildung)?
 * Sind die Funktoren einer Kategorienäquivalenz adjungiert?
 * ist ___-Adjunktion transitiv? (Set <-> Grp <-> Ab => Set <-> Ab ?) Ist das Linksadjungierte zu einem Rechtsadjungierten eindeutig? (Set -> Grp -> Ab = Set -> Ab ?)
 * Gilt: B zusammenziehbar => f.a. f,g: A -> B: f homotop g?
@@ -48,10 +47,10 @@ Es genügt hingegen _nicht_ es auf den offenen Zellen zu testen (siehe z.B. S^1 
 * Was heißt "endlich erzeugte Gruppe"?
 * Was genau ist der Zusammenhang zwischen Currying und kartesisch abgeschlossenen Kategorien? (möglicherweise ist die Frage hier nur, wie man diese Frage sinnvoll stellen sollte?)
 * Wie kann der (topologische) Quotientenraum als Kolimes verstanden werden?
-* Was ist die "ad hoc"-Definition von d_1 im Komplex für die zelluläre Homologie?
 
 
 <h1>ToDos</h1>
+
 * Definition von Adjunktion (v. Funktoren) verstehen
 * alternative (Ko-)Limes-Definition verstehen (und anwenden!)
 * Universelle Eigenschaften anschaulich verstehen (z.B. bei Tensorprodukten, Produkten, Limites...)
