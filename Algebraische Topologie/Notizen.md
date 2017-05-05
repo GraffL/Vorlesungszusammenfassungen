@@ -28,6 +28,15 @@
 * Offen-/Abgeschlossenheit einer Teilmenge eines CW-Komplexes kann man testen, indem man Offen-/Abgeschlossenheit in allen (abgeschlossenen) Zellen testet (der Beweis dazu steckt im Grunde in der Lösung zu B12/A2,3). 
 Es genügt hingegen _nicht_ es auf den offenen Zellen zu testen (siehe z.B. S^1 in D^2)
 * Eine Abbildung aus einem CW-Komplex heraus ist stetig genau dann, wenn sie stetig auf allen (abg.) Zellen ist (d.h. verknüpft mit den charakteristischen Abbildungen). Folgt aus vorheriger Aussage.
+* Sei (X; A, B) ausschneidende Triade. Dann ist der verbindende Morphismus in der langen exakten Sequenz von (X, A, C) die Nullabbildung. Folgt aus der Beobachtung, dass in folgedem Diagramm die Diagonale mit 0en zu einer kurzen exakten Sequenz gemacht werden kann (Exaktheit in der Mitte ist klar, Inj/Surj folgt aus den Isos):
+
+		E(B,C)            E(A,C)
+		   |   \        /   |
+		Iso|     E(X,C)     |Iso
+		   v   /        \   v
+		E(X,A)            E(X,B)
+		
+  Da diese KeS spaltet, folgt damit auch, dass E(A,C)+E(X,C) -> E(X,C) ein Iso ist (B16/A1).
 
 
 <h2>Besonders erinnerungswürdige Beispiele</h2>
