@@ -11,6 +11,12 @@
 
 <h2>Besonders erinnerungswürdige Beispiele</h2>
 
+* zu natürlichen Transformationen und die Kategorie 2:
+** Haben Kategorie C x 2 (2 ist die Kategorie 0->1). Dann gibt es zwei "natürliche" Einbettungsfunktoren T_0, T_1: C -> C x 2: X \mapsto (X,0) bzw. (X,1) und eine natürliche Transformation \eta: T_0 => T_1: \eta_X = (id_X, (0->1)).
+** Haben wir umgekehrt zwei Funktoren F_0, F_1: C -> D und \delta 2 die Kategorie 0  1 (2 ohne den Morphismus zwischen 0 und 1). Dadurch erhalten wir einen Funktor F: C x \delta 2 -> D: (X, i) \mapsto F_i(X). Eine natürliche Transformation \zeta: F_0 => F_1 induziert dann eine Fortsetung von F auf  C x 2 -> D mittels F((f:X->Y), (0->1)) := (F_1(f) \circ \zeta_X = \zeta_Y \circ F_0(f): F_0(X)->F_1(Y))
+** Startet man hingegen mit einem Funktor F: C x 2 -> D, so erhält man daraus zwei Funktoren F_0 := F \circ T_0 und F_1 := F \circ T_1 sowie eine natürliche Transformation  F \eta zwischen den beiden. 
+** Das ganze entspricht der Anschauung von Homotopien als Füllungen von Quadraten/Zylindern
+
 
 <h2>Besonders erinnerungswürdige Beweise</h2>
 
