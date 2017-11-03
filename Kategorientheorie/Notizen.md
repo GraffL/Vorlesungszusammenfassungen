@@ -4,6 +4,9 @@
 	
 
 <h2>Besonders erinnerungswürdige Definitionen</h2>
+* ein Funktor F _bewahrt_ eine Eigenschaft eines Morphismus/Objektes, wenn gilt: f/X hat die Eigenschaft => F(f)/F(X) hat die Eigenschaft
+* ein Funktor F _reflektiert_ eine Eigenschaft eines Morphismus/Objektes, wenn gilt: F(f)/F(X) hat die Eigenschaft => f/X hat die Eigenschaft
+* ein Funktor F: C -> D _kreiert_ eine Eigenschaft eines Morphismus/Objektes, wenn gilt: g/Y \in D hat die Eigenschaft => es existiert f/X \in C mit dieser Eigenschaft und F(f)=g/F(X)=Y
 
 
 <h2>Besonders erinnerungswürdige Sätze</h2>
