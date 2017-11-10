@@ -1,0 +1,1 @@
+* Die Optimalitätskriterien mittels Tangentialkegeln gelten wohl auch für K \subseteq Banach-Raum (statt nur R^n)
