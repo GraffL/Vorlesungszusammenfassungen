@@ -1,7 +1,9 @@
 ﻿<h1>Ergebnisse der <a href="http://math.stanford.edu/~vakil/threethings.html">Drei-Fragen-Challenge</a></h1>
 
 <h2>Wichtige Ideen/Motivationen/Konzepte</h2>
-	
+* Wenn man Kategorien malt, malt man typischerweise den Köcher, deren freie Kategorie man meint. Wegen der Universalität der freien Kategorie genügt es dann für die Definition eines Funktors aus dieser Kategorie heraus, einen "Funktor" auf dem Köcher zu definieren. 
+* Allgemeiner kann man eine Kategorie definieren durch einen Köcher und Relationen.	
+
 
 <h2>Besonders erinnerungswürdige Definitionen</h2>
 * ein Funktor F _bewahrt_ eine Eigenschaft eines Morphismus/Objektes, wenn gilt: f/X hat die Eigenschaft => F(f)/F(X) hat die Eigenschaft
@@ -22,6 +24,13 @@
 
 
 <h2>Besonders erinnerungswürdige Beweise</h2>
+* Im Beweis des Eckmann-Hilton-Argumentes (gilt für zwei Verknüpfungen * und x, dass sie je ein neutrales Element haben und (a * b) x (c * d) = (a x c) * (b x d), so gilt: neutrale Elemente sind gleich, Verknüpfungen sind gleich, und die Verknüpfung(en) kommutier(en)):  
+Man kann Verknüpfung * nebeneinander und x untereinander schreiben. Dann bedeutet die vorausgesetzte Identität, dass man das folgende Quadrat sowohl erst zeilen-, dann spaltenweise als auch erst erst spalten- und dann zeilenweise lesen lässt:  
+		|---|---|
+		| a | b |
+		---------
+		| c | d |
+		|---|---|
 
 
 <h2>Fragen</h2>
