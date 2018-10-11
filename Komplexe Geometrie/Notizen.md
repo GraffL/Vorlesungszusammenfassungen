@@ -6,6 +6,9 @@
 
 <h2>Besonders erinnerungswürdige Definitionen</h2>
 * Zwei Atlanten heißen äquivalent, wenn ihre Vereinigung wieder ein Atlas ist. 
+* Zu Integration auf Mannigfaltigkeiten: Muss unabhängig von Kartenwahl sein -> Kartenwechsel gibt Betrag von Determinante von Jakobimatrix des Kartenwechsels
+	- Integriere nicht Funktionen, sondern alternierende n-Formen -> Kartenwechsel liefert automatisch Determinante
+	- Wegen Betrag: Integriere nur über orientierte Mannigfaltigkeiten
 
 
 <h2>Besonders erinnerungswürdige Sätze</h2>
