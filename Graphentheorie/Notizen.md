@@ -12,6 +12,7 @@
 
 <h2>Besonders erinnerungswürdige Sätze</h2>
 
+* Die Diedergruppe \(D_n\) (Symmetriegruppe des regelmäßigen \(n\)-Ecks bzw. Automorphismengruppe des \(C_n\)) hat zwei Erzeuger \(\rho\) (Drehung um eine Ecke) und \(\sigma\) (Spiegelung an einer festgelegten Achse) mit folgenden Relationen: \(\rho^n = \id, \sigma^2 = \id, \sigma\circ\rho\circ\sigma = \rho^{-1}\)
 
 <h2>Besonders erinnerungswürdige Beispiele</h2>
 
@@ -28,5 +29,4 @@
 
 <h1>ToDos</h1>
 
-* Kategorie der Graphen in Kapitel 1-Zsmfsg aufnehmen
 * Kap 1-Zsmfsg umstrukturieren: Liniengraph, Komplementärgraph, ... zu besonderen Graphen links oben (jeweils mit kurzen Spezialsätzen). Eigener Bereich für Sätze über Adjazenz und Inzidenzmatrix

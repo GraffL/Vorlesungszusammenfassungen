@@ -2,6 +2,7 @@
 
 <h2>Wichtige Ideen/Motivationen/Konzepte</h2>
 	
+* Ein rekursiver Algorithmus, der die Instanzgröße in jeder Stufe halbier, hat Tiefe \(log n\). Zieht er in jeder Stufe eine Wurzel, hat er Rekursionstiefe \(\log \log n\). Welche weiteren derartiven Zusammenhänge gibt es?
 
 <h2>Besonders erinnerungswürdige Definitionen</h2>
 
