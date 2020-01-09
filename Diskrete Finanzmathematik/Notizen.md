@@ -11,11 +11,14 @@
 
 <h2>Besonders erinnerungswürdige Sätze</h2>
 
+* Hahn-Banach (Fortsetzbarkeit von auf UVRen definierten linearen Funktionalen) ist äquivalent zum Babach-Tarski-Paradoxon. Ebenso zu unendlichen Versionen der Trennungssätze in der Optimierung bzw. dem Farkas-Lemma.
+
 
 
 
 <h2>Besonders erinnerungswürdige Beispiele</h2>
 
+* Das Spiel Mastermind lässt sich (geschickt) mit projektiver Geometrie und Steiner-Designs modellieren! Wie? -> Poker ist ähnlich, aber wohl nicht praktikabel?
 
 
 
