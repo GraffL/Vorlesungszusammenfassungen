@@ -14,6 +14,7 @@
 * (Stallings 1962): Für $n \neq 4$ sind alle glatten Strukturen auf $\IR^n$ diffeomorph
 * (Donaldson und Freedman 1980er): Es gibt exotische (nicht zur kanonischen diffeomorphe) glatte Strukturen auf $\IR^4$
 * (Milnor 1957): Es gibt exotishe Strutkruren auf $S^7$. Auf $S^4$ ist das noch ungeklärt!
+* Dass es keine raumfüllenden glatten Kurven gibt (allgemein sogar keine surjektiven glatten Abb'en aus kleinerer in höhere Dimension) ist eine einfache Folgerung aus dem Satz von Saard (welcher besagt, dass die Menge aller kritischer Werte einer glatten Abbildung, eine Nullmenge ist - und kritische Werte sind Werte, deren Urbild wenigstens einen kritischen Punkt enthält, d.h. einen Punkt $p$ für den $d_p f: T_p M -> T_{f(p)}$ N nicht surjektiv ist)
 
 
 
