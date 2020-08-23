@@ -1,4 +1,4 @@
-﻿<h1>Vorlesungszusammenfassungen</h1>
+<h1>Vorlesungszusammenfassungen</h1>
 
 Zusammenfassungen/Übersichten/&bdquo;Spickzettel&ldquo; zu verschiedenen Vorlesungen.
 
@@ -6,20 +6,20 @@ Siehe auch: <a href="https://github.com/timjb/uni-spicker">Uni-Spicker</a> von @
 
 <h2>Inhalte</h2>
 
-
 <h3>Mathematik</h3>
 
 <h4>Grundlagenvorlesungen</h4>
 
-<ul>
-<li><strong>Lineare Algebra</strong> - Vorlesungszusammendassung (Definitionen/Sätze) zu Linearer Algebra II</li>
-<li><strong>Analysis</strong> - Vorlesungszusammenfassung zu Analysis I/II, Tutornotizen</li>
-<li><strong>Algebra</strong> - Vorlesungszusammenfassung zu Algebra I/II</li>
-<li><strong>Funktionentheorie</strong> - Vorlesungszusammenfassung</li>
-<li><strong>Differentialgeometrie</strong> - Vorlesungszusammenfassung (Definitionen/Sätze)</li>
-<li><strong>Topologie</strong> - Vorlesungszusammenfassung zu Einführung in die Topologie</li>
-<li><strong>Stochastik I-III</strong> - Vorlesungszusammenfassung zu Stochastik/Statistik</li>
-</ul>
+| Vorlesung | Sp. | Inhalt | Status |
+| --------- | --- | ------ | ------ |
+| [Lineare Algebra](Lineare%20Algebra) | DE | Definitionen und Sätze aus LA II (Klausur-Spicker) | fertig |
+| [Algebra](Algebra) | DE | Defnitionen und Sätze aus Algebra I/II (Klausur-Spicker) | fertig |
+| [Analysis](Analysis) | DE | Definitionen und Sätze aus Ana I (z.T. auch II) | teilweise |
+| [Funktionentheorie](Funktionentheorie) | DE | Definitionen und Sätze aus Funktionentheorie (Klausur-Spicker) | fertig |
+| [Differentialgeometrie](Differentialgeometrie) | DE | Definitionen und Sätze aus Einfürhung in die Differentialgeometrie (Klausur-Spicker) | fertig |
+| [Topologie](Topologie) | DE |  Definitionen und Sätze aus Topologie (Klausur-Spicker) | fertig |
+| [Stochastik](Stochastik) | DE |  Definitionen und Sätze aus Stochastik I-III (Klausur-Spicker) | fertig |
+
 
 <h4>Weiterführende Vorlesungen</h4>
 
