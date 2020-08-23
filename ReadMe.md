@@ -15,45 +15,49 @@ Siehe auch: <a href="https://github.com/timjb/uni-spicker">Uni-Spicker</a> von @
 | [Lineare Algebra](Lineare%20Algebra) | DE | Definitionen und Sätze aus LA II (Klausur-Spicker) | fertig |
 | [Algebra](Algebra) | DE | Defnitionen und Sätze aus Algebra I/II (Klausur-Spicker) | fertig |
 | [Analysis](Analysis) | DE | Definitionen und Sätze aus Ana I (z.T. auch II) | teilweise |
-| [Funktionentheorie](Funktionentheorie) | DE | Definitionen und Sätze aus Funktionentheorie (Klausur-Spicker) | fertig |
+| [Funktionentheorie](Funktionentheorie) | DE | Definitionen und Sätze (Klausur-Spicker) | fertig |
 | [Differentialgeometrie](Differentialgeometrie) | DE | Definitionen und Sätze aus Einfürhung in die Differentialgeometrie (Klausur-Spicker) | fertig |
 | [Topologie](Topologie) | DE |  Definitionen und Sätze aus Topologie (Klausur-Spicker) | fertig |
 | [Stochastik](Stochastik) | DE |  Definitionen und Sätze aus Stochastik I-III (Klausur-Spicker) | fertig |
-
+| [Optimierung II](Optimierung%20II) | DE |  Vorlesungszusammenfassung | angefangen |
 
 <h4>Weiterführende Vorlesungen</h4>
 
-<ul>
-<li><strong>Diskrete Mathematik</strong> - Vorlesungszusammenfassung (Definitionen/Sätze + Algorithmen)</li>
-<li><strong>Spieltheorie</strong> - Vorlesungsmitschrift (Definitionen/Sätze)</li>
-<li><strong>Morse Homologie</strong> - Vorlesungsmitschrift (Definitionen/Sätze), Vorlesungsübersicht</li>
-<li><strong>Algebraische Zahlentheorie</strong> - Vorlesungsmitschrift (Definitionen/Sätze), Vorlesungsübersicht mit Beweisideen</li>
-<li><strong>Algebraische Topologie</strong> - Vorlesungsmitschrift (Definitionen/Sätze) <em>in Arbeit</em></li>
-<li><strong>Allgemeine Relativitätstheorie</strong> - Übersicht einiger mathematischer und physikalischer Grundbegriffe</li>
-<li><strong>Markov-Ketten und Monte-Carlo-Simulation</strong> - Vorlesungszusammenfassung</li>
-<li><strong>Bayessche Statistik</strong> - Vorlesungszusammenfassung</li>
-</ul>
+| Vorlesung | Sp. | Inhalt | Status |
+| --------- | --- | ------ | ------ |
+| [Algebraische K-Theorie](Algebraische%20K-Theorie) | DE | Vorlesungszusammenfassung | angefangen |
+| [Algebraische Topologie](Algebraische%20Topologie) | DE | Vorlesungszusammenfassung, Überblick und einige Übungsaufgaben | Teil I fertig, Teil II halb |
+| [Algebraische Zahlentheorie](Algebraische%20Zahlentheorie) | DE | Vorlesungszusammenfassung | fertig |
+| [Allgemeine Relativitätstheorie](Allgemeine%20Relativit%C3%A4tstheorie) | DE | Definitionen und Sätze (Klausur-Spicker) | teilweise (Übersicht einiger mathematischer und physikalischer Grundbegriffe) |
+| [Anordnungs- und Packungsprobleme](Anordnungs-%20und%20Packungsprobleme) | DE | Vorlesungszusammenfassung | nur ein Kapitel |
+| [Bayessche Statistik](Bayessche%20Statistik) | DE | Definitionen und Sätze (Klausur-Spicker) | fertig |
+| [Differentialtopologie und Analysis auf Mannigfaltigkeiten](Differentialtopologie%20und%20Analysis%20auf%20Mannigfaltigkeiten) | DE | Vorlesungszusammenfassung | teilweise |
+| [Diskrete Finanzmathematik](Diskrete%20Finanzmathematik) | DE | Vorlesungszusammenfassung | teilweise |
+| [Dynamical Systems](Dynamical%20Systems) | EN | Vorlesungszusammenfassung | teilweise |
+| [Garben und Logik](Garben%20und%20Logik) | DE | Vorlesungszusammenfassung | angefangen |
+| [Globale Optimierung](Globale%20Optimierung) | DE | Vorlesungszusammenfassung | unvollständig |
+| [Graphentheorie](Graphentheorie) | DE | Vorlesungszusammenfassung | unvollständig |
+| [Katheogrientheorie](Katheogrientheorie) | DE | Vorlesungszusammenfassung | angefangen |
+| [Kombinatorische Optimierung](Kombinatorische%20Optimierung) | DE | Vorlesungszusammenfassung | unvollständig |
+| [Komplexe Geometrie](Komplexe%20Geometrie) | DE | Vorlesungszusammenfassung | angefangen |
+| [Markov-Ketten und Monte-Carlo-Simulation](Markov-Ketten%20und%20Monte-Carlo-Simulation) | DE | Definitionen und Sätze (Klausur-Spicker)  | fertig |
+| [Mathematische Spieltheorie](Mathematische%20Spieltheorie) | DE | Vorlesungszusammenfassung | fertig (2x) |
+| [Morse Homologie](Morse%20Homologie) | DE | Vorlesungszusammenfassung | fertig |
+| [Nonlinear Functional Analysis](Nonlinear%20Functional%20Analysis) | EN | Vorlesungszusammenfassung | angefangen |
+| [Schematheorie](Schematheorie) | DE | Vorlesungszusammenfassung | angefangen |
+| [Symplektische Geometrie](Symplektische%20Geometrie) | DE | Vorlesungszusammenfassung | angefangen |
+| [Topostheorie](Topostheorie) | DE | Vorlesungszusammenfassung | teilweise |
 
 <h3>Informatik</h3>
 
-<ul>
-<li><strong>Theoretische Informatik</strong> - Übersicht zu Grundbegriffen, Regulären Sprachen und Kontextfreien Sprachen</li>
-<li><strong>Informatik III</strong> - Stoffübersicht <em>in Arbeit</em></li>
-<li><strong>Algebraische Beschreibung paralleler Prozesse</strong> - Zusammenfassung des Vorlesungsstoffes (Definitionen/Sätze)</li>
-<li><strong>Einführung in parallele Algorithmen</strong> - Zusammenfassung des Vorlesungsstoffes (Definitionen/Sätze, Probleme/Algorithmen, Prozessor-Modelle - z.T. mit Beweisideen)</li>
-<li><strong>Endliche Automaten</strong> - Übersicht der Varianten von Endlichen Automaten, Abschlusseigenschaften regulärer Sprachen und Diophantische Gleichungen</li>
-<li><strong>Petrinetze</strong> - Zusammenfassung des Vorlesungsstoffes</li>
-<li><strong>Platzeffiziente Algorithmen</strong> - Zusammenfassung des Vorlesungsstoffes (Definitionen/Sätze, Algorithmen, Datenstrukturen - z.T. mit Beweisideen). Es fehlen die letzten beiden Kapitel</li>
-<li><strong>Algorithmen für NP-harte Probleme</strong> - Übersicht "NP-harte Probleme vs Approx. Algorithmen", Stoffzusammenfassung (Definitionen, Algorithemen)</li>
-</ul>
-
-<hr />
-
-<h2>ToDos:</h2>
-
-Gibt es eine sinnvolle Möglichkeit derartige Zusammenfassungen zu digitalisieren?
-<ul>
-<li>Inkscape mit LaTeX-Plugin?</li>
-<li>Graphics-Tablet + ???</li>
-<li><a href="https://github.com/otfried/ipe">Ipe Drawing-Editor?</a></li>
-</ul>
+| Vorlesung | Sp. | Inhalt | Status |
+| --------- | --- | ------ | ------ |
+| [Algebraische Beschreibung Paralleler Prozesse](Algebraische%20Beschreibung%20Paralleler%20Prozesse) | DE | Definitionen und Sätze (Klausur-Spicker) | fertig |
+| [Algorithmen für NP-harte Probleme](Algorithmen%20f%C3%BCr%20NP-harte%20Probleme) | DE | Algorithmen, Definitionen und Sätze (Klausur-Spicker) | fertig |
+| [Einführung in Parallele Algorithmen](Einf%C3%BChrung%20in%20Parallele%20Algorithmen) | DE | Algorithmen, Definitionen und Sätze (Klausur-Spicker) | fertig |
+| [Endliche Automaten](Endliche%20Automaten) | DE | Definitionen und Sätze (Klausur-Spicker) | fertig |
+| [Informatik III](Informatik%20III) | DE | Definitionen und Sätze (Klausur-Spicker) | angefangen |
+| [Perlen der Algorithmik](Perlen%20der%20Algorithmik) | DE | Vorlesungszusammenfassung | angefangen |
+| [Petrinetze](Petrinetze) | DE | Definitionen und Sätze (Klausur-Spicker) | fertig |
+| [Platzeffiziente Algorithmen](Platzeffiziente%20Algorithmen) | DE | Definitionen und Sätze (Klausur-Spicker) | unvollständig (letzte beiden Kapitel fehlen) |
+| [Theoretische Informatik](Theoretische%20Informatik) | DE | Definitionen und Sätze (Klausur-Spicker) | fertig |
