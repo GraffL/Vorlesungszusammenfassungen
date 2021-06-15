@@ -2,6 +2,8 @@
 
 Zusammenfassungen/Übersichten/&bdquo;Spickzettel&ldquo; zu verschiedenen Vorlesungen.
 
+<a href="https://github.com/GraffL/Vorlesungszusammenfassungen/archive/refs/heads/master.zip"><strong>&darr; Alle Zusammenfassungen herunterladen (zip)</strong></a>
+
 Siehe auch: <a href="https://github.com/timjb/uni-spicker">Uni-Spicker</a> von @timjb
 
 <h2>Inhalte</h2>
