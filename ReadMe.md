@@ -40,7 +40,7 @@ Siehe auch: <a href="https://github.com/timjb/uni-spicker">Uni-Spicker</a> von @
 | [Garben und Logik](Garben%20und%20Logik) | DE | Vorlesungszusammenfassung | angefangen |
 | [Globale Optimierung](Globale%20Optimierung) | DE | Vorlesungszusammenfassung | unvollständig |
 | [Graphentheorie](Graphentheorie) | DE | Vorlesungszusammenfassung | unvollständig |
-| [Homotopische Algebra](Homotopische Algebra) | DE | Vorlesungszusammenfassung | im Entstehen |
+| [Homotopische Algebra](Homotopische%20Algebra) | DE | Vorlesungszusammenfassung | im Entstehen |
 | [Katheogrientheorie](Katheogrientheorie) | DE | Vorlesungszusammenfassung | angefangen |
 | [Kombinatorische Optimierung](Kombinatorische%20Optimierung) | DE | Vorlesungszusammenfassung | unvollständig |
 | [Komplexe Geometrie](Komplexe%20Geometrie) | DE | Vorlesungszusammenfassung | angefangen |
