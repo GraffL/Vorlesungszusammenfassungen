@@ -16,6 +16,11 @@
 
 <h2>Besonders erinnerungswürdige Beispiele</h2>
 
+* zu Funktoren:
+** Die Kategorie Delta^0 ist die Kategorie mit genau einem Objekt. Die Menge aller Funktoren von Delta^0 in eine beliebige Kategorie C ist "gleich" der Menge der Objekte von C
+** Die Kategorie Delta^1 ist die Kategorie mit genau zwei Objekten und einem Morphismus zwischen den beiden. Die Menge aller Funktoren von Delta^1 in eine beliebige Kategorie C ist "gleich" der Menge der Morphismen von C
+** Die Kategorie Delta^2 ist die Kategorie mit drei Objekten und drei Morphismen zwischen diesen, die ein kommutierendes Dreieck bilden. Die Menge aller Funktoren von Delta^2 in eine beliebige Kategorie C ist "gleich" der Menge der kommutativen Dreiecke in C.
+
 * zu natürlichen Transformationen und die Kategorie 2:
 ** Haben Kategorie C x 2 (2 ist die Kategorie 0->1). Dann gibt es zwei "natürliche" Einbettungsfunktoren T_0, T_1: C -> C x 2: X \mapsto (X,0) bzw. (X,1) und eine natürliche Transformation \eta: T_0 => T_1: \eta_X = (id_X, (0->1)).
 ** Haben wir umgekehrt zwei Funktoren F_0, F_1: C -> D und \delta 2 die Kategorie 0  1 (2 ohne den Morphismus zwischen 0 und 1). Dadurch erhalten wir einen Funktor F: C x \delta 2 -> D: (X, i) \mapsto F_i(X). Eine natürliche Transformation \zeta: F_0 => F_1 induziert dann eine Fortsetung von F auf  C x 2 -> D mittels F((f:X->Y), (0->1)) := (F_1(f) \circ \zeta_X = \zeta_Y \circ F_0(f): F_0(X)->F_1(Y))
