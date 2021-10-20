@@ -2,6 +2,8 @@
 
 Zusammenfassungen/Übersichten/&bdquo;Spickzettel&ldquo; zu verschiedenen Vorlesungen.
 
+<a href="https://github.com/GraffL/Vorlesungszusammenfassungen/archive/refs/heads/master.zip"><strong>&darr; Alle Zusammenfassungen herunterladen (zip)</strong></a>
+
 Siehe auch: <a href="https://github.com/timjb/uni-spicker">Uni-Spicker</a> von @timjb
 
 <h2>Inhalte</h2>
@@ -19,6 +21,7 @@ Siehe auch: <a href="https://github.com/timjb/uni-spicker">Uni-Spicker</a> von @
 | [Differentialgeometrie](Differentialgeometrie) | DE | Definitionen und Sätze aus Einfürhung in die Differentialgeometrie (Klausur-Spicker) | fertig |
 | [Topologie](Topologie) | DE |  Definitionen und Sätze aus Topologie (Klausur-Spicker) | fertig |
 | [Stochastik](Stochastik) | DE |  Definitionen und Sätze aus Stochastik I-III (Klausur-Spicker) | fertig |
+| [Optimierung I](Einfuehrung%20in%20die%20Optimierung) | DE |  Vorlesungszusammenfassung | fertig |
 | [Optimierung II](Optimierung%20II) | DE |  Vorlesungszusammenfassung | angefangen |
 
 <h4>Weiterführende Vorlesungen</h4>
