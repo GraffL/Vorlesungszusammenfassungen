@@ -52,6 +52,13 @@ Siehe auch: <a href="https://github.com/timjb/uni-spicker">Uni-Spicker</a> von @
 | [Symplektische Geometrie](Symplektische%20Geometrie) | DE | Vorlesungszusammenfassung | angefangen |
 | [Topostheorie](Topostheorie) | DE | Vorlesungszusammenfassung | teilweise |
 
+<h4>Sonstige</h4>
+
+| Event | Sp. | Inhalt | Status |
+| --------- | --- | ------ | ------ |
+| [Summer School in Discrete Mathematics 2022](SummerSchool2022) | EN | Vorlesungszusammenfassung | in Arbeit |
+
+
 <h3>Informatik</h3>
 
 | Vorlesung | Sp. | Inhalt | Status |
