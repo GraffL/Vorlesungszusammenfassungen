@@ -1,1 +1,3 @@
 * Die Optimalitätskriterien mittels Tangentialkegeln gelten wohl auch für K \subseteq Banach-Raum (statt nur R^n)
+* Was bedeutet Regularität für LPs? Nicht richtig ist: Jeder Punkt eines LPs ist regulär (redundante Nebenbedingungen)? Evtl. gilt aber: Jedes LP lässt sich als vollständig reguläres LP schreiben (-> check Mangasarian-Fromowitz)? Es wäre interessant diese Aussage zu formalisieren...
+  Es gibt eine Aufgabe (Opti2/KKT/a07) die über LPs im NL-Setting redet (aber nicht genau diese Frage beantwortet). Darin wird behauptet, dass in einem LP jeder kritische Punkt ein KKT-Punkt ist. Kann man das aus der (vermuteten) Regularitätsaussage folgern?
